@@ -1,0 +1,19 @@
+{
+    "name": "stagiaire/16-pdo_contact-book",
+    "description": "Application de gestion de Répertoire téléphonique",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonathan CHERKIT",
+            "email": "j.cherkit@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":
+    {
+        "psr-4": {
+            "src\\":"src/"
+            }
+    }
+}
